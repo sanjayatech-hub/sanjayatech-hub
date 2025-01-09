@@ -20,6 +20,8 @@
   - [MAC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>OS Installation Scripts</b>
   - [Set of Scripts For Automating The Installation and Configuration(Windows/Mac)](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>HomeLab - Technical Project</b>
+  - [SAMPLE](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2>🚀 Ongoing Projects:</h2>
 
