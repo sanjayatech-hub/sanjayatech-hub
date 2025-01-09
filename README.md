@@ -7,7 +7,7 @@
 <h2>📑 Certifications & Training:</h2>
 
   - [Google IT Support Professional](https://github.com/sanjayatech-hub/GoogleITSupportCert)
-  - [Google Cybersecurity Professional](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google Cybersecurity Professional](https://github.com/sanjayatech-hub/GoogleCybersecurityCert)
   - [IBM IT Support Professional](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Microsoft 365 Fundamentals](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Aiming to get CompTIA A+]
