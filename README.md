@@ -24,7 +24,7 @@
 <h2>🚀 Ongoing Projects:</h2>
 
 - <b>Sample of current project(WEB)</b>
-  - [Gorkhali FC - Sport Website](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Gorkhali FC - Sport Website](https://github.com/sanjayatech-hub/GorkhaliFC)
 
 <h2> 🤳 Connect with me:</h2>
 
