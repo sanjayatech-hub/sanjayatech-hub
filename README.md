@@ -14,7 +14,7 @@
 <h2>💻 IT Projects:</h2>
 
 - <b>Operating Systems Troubleshooting</b>
-  - [Practicing Common Troubleshooting Steps on PC(Windows) - SOFTWARE](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Common Troubleshooting Steps on PC(Windows) - SOFTWARE](https://github.com/sanjayatech-hub/TroubleshootingPC-Software)
   - [Practicing Common Troubleshooting Steps on PC(Windows) - HARDWARE](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Practicing Common Troubleshooting Steps on MAC - SOFTWARE](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Practicing Common Troubleshooting Steps on MAC - HARDWARE](https://github.com/joshmadakor1/Algorithms-Practice)
