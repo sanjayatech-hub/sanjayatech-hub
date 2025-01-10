@@ -14,7 +14,8 @@
 <h2>💻 IT Projects:</h2>
 
 - <b>Operating Systems Troubleshooting</b>
-  - [Practicing Common Troubleshooting Steps on MAC/PC(Windows)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Common Troubleshooting Steps on PC(Windows)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Common Troubleshooting Steps on MAC](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Install/Reinstall/Reset Operating Systems</b>
   - [Windows](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
   - [MAC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
