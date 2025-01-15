@@ -15,16 +15,16 @@
 
 - <b>Operating Systems Troubleshooting</b>
   - [Practicing Common Troubleshooting Steps on PC(Windows) - SOFTWARE](https://github.com/sanjayatech-hub/TroubleshootingPC-Software)
-  - [Practicing Common Troubleshooting Steps on PC(Windows) - HARDWARE](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Practicing Common Troubleshooting Steps on MAC - SOFTWARE](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Practicing Common Troubleshooting Steps on MAC - HARDWARE](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Common Troubleshooting Steps on PC(Windows) - HARDWARE]()
+  - [Practicing Common Troubleshooting Steps on MAC - SOFTWARE]()
+  - [Practicing Common Troubleshooting Steps on MAC - HARDWARE]()
 - <b>Install/Reinstall/Reset Operating Systems</b>
-  - [Windows](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-  - [MAC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Windows]() <b><i></b></i>
+  - [MAC]() <b><i></b></i>
 - <b>OS Installation Scripts</b>
-  - [Set of Scripts For Automating The Installation and Configuration(Windows/Mac)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Set of Scripts For Automating The Installation and Configuration(Windows/Mac)]()
 - <b>HomeLab - Technical Project</b>
-  - [SAMPLE](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [SAMPLE]()
 
 <h2>🚀 Ongoing Projects:</h2>
 
@@ -33,7 +33,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sanjaya Mongar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/smongar24/
 
