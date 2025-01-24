@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sanjaya! <br/><a href="https://github.com/sanjayatech-hub">Front-End Developper</a> & <a href="https://www.linkedin.com/in/smongar24/">IT Professional</a>
 
 <h2>👨🏻‍💻 About ME:</h2>
-  Hi, I'm Sanjaya, an IT graduate with experience in IT support, front-end development, and cybersecurity. Through co-op positions, freelance work, and educational background I’ve developed a strong problem-solving mindset and hands-on skills in technology. I aim to continue expanding my expertise and make a positive impact in the IT field, delivering effective solutions and exceptional service.<br/>
+  Hi, I'm Sanjaya, I have been passionate about information technology since the age of 12. I started by troubleshooting issues with PCs and finding solutions, quickly becoming the go-to person in my community for fixing computers, laptops, and mobile devices. Helping others and providing support has always been fulfilling for me, and I continue to learn and grow in this field. Furthermore, I am an IT graduate with experience in IT support, front-end development, and cybersecurity. Through co-op positions, freelance work, and educational background I’ve developed a strong problem-solving mindset and hands-on skills in technology. I aim to continue expanding my expertise and make a positive impact in the IT field, delivering effective solutions and exceptional service. <br/>
 <h2></h2>
 
 <h2>📑 Certifications & Training:</h2>
